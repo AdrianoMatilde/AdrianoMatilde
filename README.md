@@ -7,12 +7,11 @@
 
 - 🌱 Estudante das liguagens:
 - 🌱 Python, HTML5 e CSS3
-
+- Um Entusiasta na area da tecnologia!
 <br>
 <div align = "center">
   <a href="https://github.com/AdrianoMatilde">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AdrianoMatilde&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoMatilde&layout=compact&langs_count=168&theme=nightowl"/>
+  
 </div>
 <div style="display: inline_block" align = "center"><br>
   <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
