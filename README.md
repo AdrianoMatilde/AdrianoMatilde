@@ -13,7 +13,8 @@
 
 
 * [Acesse meu Repositório](https://github.com/AdrianoMatilde?tab=repositories)
-* [![Linkedin](file:///C:/Users/Adriano/Pictures/Logos/linkedin.svg)](https://www.linkedin.com/in/adriano-silva-1026465b/)
+
+* [![Linkedin](C:\Users\Adriano\Pictures\Logos\Fecebook.png/)](https://www.linkedin.com/in/adriano-silva-1026465b/)
   
 ### Linguagens e Ferramentas de estudo e aprendizado:
 Buscando a cada dia o aperfeiçoamento!
