@@ -1,17 +1,20 @@
 ## Olá, Mundo!🌎
 #### Eu sou o Adriano Matilde
 
-- 🔭 Graduando no Superior em Gestão da Tecnologia da Informação - UNINTER Centro Universitário Internacional.
+- 👀 Graduando no Superior em Gestão da Tecnologia da Informação - UNINTER Centro Universitário Internacional.
 - 🔭 Pós-graduação Lato Sensu - Especialização, aconselhamento Cristão e capelania - UNINTER Centro Universitário Internacional.
 - 🔭 Bacharelado, Teologia – UNINTER Centro Universitário Internacional.
 
 - 🌱 Estudante das liguagens:
-- 🌱 Python, HTML5 e CSS3
-- Um Entusiasta na area da tecnologia!
+- 👀 Python, HTML5 e CSS3
+
+- 💞️ Um Entusiasta na area da tecnologia!
+
 <br>
 <div align = "center">
   <a href="https://github.com/AdrianoMatilde">
   
+  ### Linguagens e Ferramentas:
 </div>
 <div style="display: inline_block" align = "center"><br>
   <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
