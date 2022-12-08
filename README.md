@@ -10,13 +10,15 @@
    - 👀 Python, HTML5 e CSS3
 
 💞️ Um Entusiasta na area da tecnologia!
-<br>
+
+  
 📫 Onde me achar:
    * [Linkedin](https://www.linkedin.com/in/adriano-silva-1026465b/)
    * [Facebook](https://pt-br.facebook.com/Adrianoexx/)
 
 * [Acesse meu Repositório](https://github.com/AdrianoMatilde?tab=repositories)
-<br>
+
+
 #### Linguagens e Ferramentas de estudo e aprendizado:
 Buscando a cada dia o aperfeiçoamento!
 </div>
