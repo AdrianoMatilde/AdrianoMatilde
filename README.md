@@ -14,8 +14,8 @@
 
 * [Acesse meu Repositório](https://github.com/AdrianoMatilde?tab=repositories)
 
-* [![Linkedin](C:\Users\Adriano\Pictures\Logos\Fecebook.png/)](https://www.linkedin.com/in/adriano-silva-1026465b/)
-  
+* [![Linkedin](https://www.linkedin.com/in/adriano-silva-1026465b/)
+* [Facebook](https://pt-br.facebook.com/Adrianoexx/)
 ### Linguagens e Ferramentas de estudo e aprendizado:
 Buscando a cada dia o aperfeiçoamento!
 
