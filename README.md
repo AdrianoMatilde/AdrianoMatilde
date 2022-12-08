@@ -5,14 +5,15 @@
 - 🔭 Pós-graduação Lato Sensu - Especialização, aconselhamento Cristão e capelania - UNINTER Centro Universitário Internacional.
 - 🔭 Bacharelado, Teologia – UNINTER Centro Universitário Internacional.
 
-- 🌱 Estudante das liguagens:
+
+🌱 Estudante das liguagens:
 - 👀 Python, HTML5 e CSS3
 
 💞️ Um Entusiasta na area da tecnologia!
 
 
 * [Acesse meu Repositório](https://github.com/AdrianoMatilde?tab=repositories)
-
+* [![Linkedin](file:///C:/Users/Adriano/Pictures/Logos/linkedin.svg)](https://www.linkedin.com/in/adriano-silva-1026465b/)
   
 ### Linguagens e Ferramentas de estudo e aprendizado:
 Buscando a cada dia o aperfeiçoamento!
@@ -26,4 +27,3 @@ Buscando a cada dia o aperfeiçoamento!
   <img align="center" alt="Adriano-VsCode " height="40" width="60"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Adriano-Trello" height="70" width="90"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
 </div>
-
