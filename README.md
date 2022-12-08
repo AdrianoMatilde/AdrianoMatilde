@@ -8,11 +8,15 @@
 - 🌱 Estudante das liguagens:
 - 👀 Python, HTML5 e CSS3
 
-- 💞️ Um Entusiasta na area da tecnologia!
+💞️ Um Entusiasta na area da tecnologia!
 
-   * [Acesse meu Repositório](https://github.com/AdrianoMatilde?tab=repositories)
+
+* [Acesse meu Repositório](https://github.com/AdrianoMatilde?tab=repositories)
+
   
-  ### Linguagens e Ferramentas:
+### Linguagens e Ferramentas de estudo e aprendizado:
+Buscando a cada dia o aperfeiçoamento!
+
 </div>
 <div style="display: inline_block" align = "center"><br>
   <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
