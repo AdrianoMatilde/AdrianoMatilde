@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @AdrianoMatilde
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Olá, Mundo!🌎
+#### Eu sou o Adriano Matilde
 
-<!---
-AdrianoMatilde/AdrianoMatilde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Graduando no Superior em Gestão da Tecnologia da Informação - UNINTER Centro Universitário Internacional.
+- 🔭 Pós-graduação Lato Sensu - Especialização, aconselhamento Cristão e capelania - UNINTER Centro Universitário Internacional.
+- 🔭 Bacharelado, Teologia – UNINTER Centro Universitário Internacional.
+
+- 🌱 Estudante das liguagens:
+- 🌱 Python, HTML5 e CSS3
+
+<br>
+<div align = "center">
+  <a href="https://github.com/AdrianoMatilde">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AdrianoMatilde&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoMatilde&layout=compact&langs_count=168&theme=nightowl"/>
+</div>
+<div style="display: inline_block" align = "center"><br>
+  <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Adriano-Git" height="60" width="80"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img align="center" alt="Adriano-GitHub" height="40" width="60"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center" alt="Adriano-VsCode " height="40" width="60"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Adriano-Trello" height="70" width="90"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+</div>
+
