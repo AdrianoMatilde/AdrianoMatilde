@@ -1,5 +1,5 @@
 ### Olá, Mundo!🌎
-#### -Bem vindo ao meu GitHub.-
+#### Bem vindo ao meu GitHub.
 
 - 👀 Graduando no Superior em Gestão da Tecnologia da Informação - UNINTER Centro Universitário Internacional.
 - 🔭 Pós-graduação Lato Sensu - Especialização, aconselhamento Cristão e capelania - UNINTER Centro Universitário Internacional.
@@ -20,7 +20,7 @@
   <img align="center" alt="Adriano-Python" height="30" width="40"<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" />
 </div>
 
-📫 Contatos:
+### 📫 Contatos:
 ---
 <div>
 <a href = "mailto:adrianomatilde@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
