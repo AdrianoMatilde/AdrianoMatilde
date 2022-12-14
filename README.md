@@ -12,9 +12,15 @@
 💞️ Um Entusiasta na area da tecnologia!
 
   
-📫 Onde me achar:
-   * [Linkedin](https://www.linkedin.com/in/adriano-silva-1026465b/)
-   * [Facebook](https://pt-br.facebook.com/Adrianoexx/)
+📫 ## Contatos:
+
+<div>
+<a href = "mailto:adrianomatilde@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://pt-br.facebook.com/Adrianoexx/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/adriano-silva-1026465b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+   
+   
 
 * [Acesse meu Repositório](https://github.com/AdrianoMatilde?tab=repositories)
 
