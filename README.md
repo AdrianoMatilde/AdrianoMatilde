@@ -27,7 +27,7 @@
   <img align="center" alt="Adriano-Git" height="60" width="80"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="Adriano-GitHub" height="40" width="60"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Adriano-VsCode" height="40" width="60"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Adriano-Python" height="40" width="60"<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img align="center" alt="Adriano-Python" height="40" width="60"<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" />
 </div>
 
 <div style="display: inline_block" align = "center"><br>
