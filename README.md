@@ -1,5 +1,5 @@
-<div style="display: inline_block" align = "center"><br>
-### Olá, Mundo!🌎
+### <div style="display: inline_block" align = "center"><br>
+Olá, Mundo!🌎
 </div>  
 
 #### <img src="https://github.com/AdrianoMatilde/AdrianoMatilde/blob/main/MeuOctocat%20-%20web.png?raw=true"/>  Bem vindo ao meu GitHub.
@@ -8,7 +8,11 @@
 - 🔭 Pós-graduação Lato Sensu - Especialização, aconselhamento Cristão e capelania - UNINTER Centro Universitário Internacional.
 - 🔭 Bacharelado, Teologia – UNINTER Centro Universitário Internacional.
 
+  
+
 💞️ Um Entusiasta na área da tecnologia!
+
+  
   
 🌱 Linguagens e Ferramentas de estudo e aprendizado: 👀
 
