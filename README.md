@@ -4,6 +4,8 @@
 
 #### Bem vindo ao meu GitHub.
 
+<img align="center" alt="Adriano-Octocat" height="40" width="60"<img src="https://github.com/AdrianoMatilde/AdrianoMatilde/blob/main/MeuOctocat.png?raw=true" />
+
 - 👀 Graduando no Superior em Gestão da Tecnologia da Informação - UNINTER Centro Universitário Internacional.
 - 🔭 Pós-graduação Lato Sensu - Especialização, aconselhamento Cristão e capelania - UNINTER Centro Universitário Internacional.
 - 🔭 Bacharelado, Teologia – UNINTER Centro Universitário Internacional.
