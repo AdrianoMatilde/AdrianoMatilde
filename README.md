@@ -6,7 +6,7 @@
 - 🔭 Bacharelado, Teologia – UNINTER Centro Universitário Internacional.
 
 
-🌱 Estudante das liguagens:
+🌱 Estudante das linguagens:
    - 👀 Python, HTML5 e CSS3
 
 💞️ Um Entusiasta na area da tecnologia!
@@ -32,8 +32,8 @@
   <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Adriano-Git" height="60" width="80"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="Adriano-GitHub" height="40" width="60"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="center" alt="Adriano-VsCode " height="40" width="60"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Adriano-Trello" height="70" width="90"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+  <img align="center" alt="Adriano-VsCode" height="40" width="60"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Adriano-Python" height="70" width="90"<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </div>
 
 ![Snake animation](https://github.com/AdrianoMatilde/AdrianoMatilde/blob/output/github-contribution-grid-snake.svg)
