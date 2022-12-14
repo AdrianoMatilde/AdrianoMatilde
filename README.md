@@ -5,9 +5,10 @@
 - 🔭 Pós-graduação Lato Sensu - Especialização, aconselhamento Cristão e capelania - UNINTER Centro Universitário Internacional.
 - 🔭 Bacharelado, Teologia – UNINTER Centro Universitário Internacional.
 
-
+<p>
 💞️ Um Entusiasta na área da tecnologia!
-
+  
+</p>
 
 🌱 Linguagens e Ferramentas de estudo e aprendizado: 👀
 </div>
