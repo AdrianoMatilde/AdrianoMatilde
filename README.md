@@ -33,12 +33,14 @@
    
 * [Acesse meu Repositório](https://github.com/AdrianoMatilde?tab=repositories)
 
+
 <div>
-  <a href="[https://github.com/AdrianoMatilde](https://github.com/AdrianoMatilde)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AdrianoMatilde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-</div>
-
+  <a href="https://github.com/luanafront">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoMatilde&show_icons=true&theme=dracula&incluide_all_commits=true&count_private=true"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoMatilde&layout=compact&langs_count=16&theme=dracula"/> 
+ </div>
+  
+  
 <div style="display: inline_block" align = "center"><br> 
   
   ![Snake animation](https://github.com/AdrianoMatilde/AdrianoMatilde/blob/output/github-contribution-grid-snake.svg)
