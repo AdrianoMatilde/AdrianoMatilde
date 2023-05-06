@@ -2,11 +2,17 @@
 
 ###
 
-<h3 align="left"> <img src="https://github.com/AdrianoMatilde/AdrianoMatilde/blob/main/MeuOctocat%20-%20web.png?raw=true"/> Bem vindo ao meu GitHub.<br><br>💞️ Um Entusiasta na área da tecnologia! <br>📚 Apaixonado por leitura!<br><br><br>- 👀 Graduando no Superior em Gestão da Tecnologia da Informação - UNINTER Centro Universitário Internacional.<br>- 🔭 Pós-graduação Lato Sensu - Especialização, aconselhamento Cristão e capelania - UNINTER Centro Universitário Internacional. ✔<br>- 🔭 Bacharelado, Teologia – UNINTER Centro Universitário Internacional. ✔<br><br>"Conhecimento nunca ocupa espaço, mais amplia nossa visão de mundo!"</h3>
+<h3 align="left"> <img src="https://github.com/AdrianoMatilde/AdrianoMatilde/blob/main/MeuOctocat%20-%20web.png?raw=true"/> Bem vindo ao meu GitHub.<br><br>💻 Um Programador em formação!<br> 💞️ Um Entusiasta na área da tecnologia! <br>📚 Apaixonado por leitura! <br>🧐 Uma mistura Nerd Geek! <br><br><br>- 👀 Graduando no Superior em Gestão da Tecnologia da Informação - UNINTER Centro Universitário Internacional.<br>- 🔭 Pós-graduação Lato Sensu - Especialização, aconselhamento Cristão e capelania - UNINTER Centro Universitário Internacional. ✔<br>- 🔭 Bacharelado, Teologia – UNINTER Centro Universitário Internacional.✔</h3>
+  
+<br>
 
 ###
 
-<p align="left"></p>
+<h4 align="left">"Conhecimento nunca ocupa espaço, mais nos desenvolve a uma versão melhorada de nós mesmos!" Adriano M. Silva de Jesus<br>"As máquinas me surpreendem muito frequentemente." Alan Turing<br>"Lembre-se sempre, no entanto, de que geralmente há uma maneira mais simples e melhor de fazer algo do que a primeira maneira que vem à sua cabeça." Donald Knuth<br>"A web não está concluída, é apenas a ponta do iceberg. As novas mudanças irão balançar o mundo ainda mais." Tim Berners-Lee<br>"A arte de programar consiste em organizar e dominar a complexidade." Edsger W. Dijkstra<br>"Falar é fácil, me mostre o código." Linus Torvalds</h4>
+
+###
+
+<p></p>
 
 ###
 
@@ -26,7 +32,7 @@
 
 ###
 
-<p align="left"></p>
+<p></p>
 
 ###
 
@@ -48,7 +54,7 @@
 
 ###
 
-<p align="left"></p>
+<p></p>
 
 ###
 
