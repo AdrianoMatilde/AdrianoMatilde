@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left"> <img src="https://github.com/AdrianoMatilde/AdrianoMatilde/blob/main/MeuOctocat%20-%20web.png?raw=true"/> Bem vindo ao meu GitHub.<br><br>💻 Um Programador em formação!<br> 💞️ Um Entusiasta na área da tecnologia! <br>📚 Apaixonado por leitura! <br>🧐 Uma mistura Nerd Geek! <br><br><br>- 👀 Graduando no Superior em Gestão da Tecnologia da Informação - UNINTER Centro Universitário Internacional. 👨🏾‍💻<br>- 🔭 Pós-graduação Lato Sensu - Especialização, aconselhamento Cristão e capelania - UNINTER Centro Universitário Internacional. ✔<br>- 🔭 Bacharelado, Teologia – UNINTER Centro Universitário Internacional.✔</h3>
-  
+
 <br>
 
 ###
