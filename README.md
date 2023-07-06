@@ -36,11 +36,11 @@
 
 ###
 
-<h2 align="left">📫 Contatos:</h2>
+<h2 align="center">📫 Contatos:</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:adrianomatilde@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
