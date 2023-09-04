@@ -10,7 +10,7 @@
 <h3 align="left">
 💻 Um Programador em formação!<br> 💞️ Um Entusiasta na área da tecnologia! <br>📚 Apaixonado por leitura! <br>🧐 Uma mistura Nerd Geek! 
 </h3>
-div>
+</div>
 
  ### Formação 
 
@@ -22,7 +22,8 @@ div>
 
 <div style="margin: 20px 0; display:flex; gap:10px 5px;flex-wrap:wrap;">
 <h4 align="left">"Conhecimento nunca ocupa espaço, mais nos desenvolve a uma versão melhorada de nós mesmos!" Adriano M. Silva de Jesus<br>"As máquinas me surpreendem muito frequentemente." Alan Turing<br>"Lembre-se sempre, no entanto, de que geralmente há uma maneira mais simples e melhor de fazer algo do que a primeira maneira que vem à sua cabeça." Donald Knuth<br>"A web não está concluída, é apenas a ponta do iceberg. As novas mudanças irão balançar o mundo ainda mais." Tim Berners-Lee<br>"A arte de programar consiste em organizar e dominar a complexidade." Edsger W. Dijkstra<br>"Falar é fácil, me mostre o código." Linus Torvalds</h4>
-</div>div>
+</div>
+
 ###
 
 <h2 align="left">🌱 Linguagens e Ferramentas: 👀 💖 ✔</h2>
@@ -71,5 +72,3 @@ div>
   ![Snake animation](https://github.com/AdrianoMatilde/AdrianoMatilde/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-###
